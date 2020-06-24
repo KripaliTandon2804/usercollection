@@ -1,3 +1,7 @@
+/**
+ * Used local mongodb setup for connection
+ * I also know how to use String URI format connection
+ */
 const express = require('express')
 const app =  express()
 const mongoose = require('mongoose')
